@@ -1,0 +1,26 @@
+.App {
+min-height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgb(83, 53, 66);
+flex-wrap: wrap;
+}
+.card {
+  background-color: rgb(112, 145, 134);
+  margin: 20px;
+  border-radius: 10px;
+  width: 200px;
+  color: rgb(252, 250, 255);
+  padding: 20px;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.card p {
+  font-size: 20px;
+}
+
+.card h2 {
+  color: rgb(255, 255, 255);
+}
